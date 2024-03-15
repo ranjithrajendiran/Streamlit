@@ -1,11 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Fri Mar 15 15:39:56 2024
-
-@author: ranjith.kumar
-"""
-
-# File: my_streamlit_app.py
 import streamlit as st
 
 def main():
